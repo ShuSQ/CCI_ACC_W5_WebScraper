@@ -6,4 +6,4 @@ Python has a very simple web scraping library, and it is very easy to clean, sto
 
 You can also visit my blog to view the detailed content:
 
-https://shusq.github.io/2021/01/29/python-scrape/
+https://shusq.github.io/2021/01/29/Coding14-python%20scrape/
